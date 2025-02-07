@@ -342,7 +342,7 @@ In short:  Despite high volume and low cancellations, customer satisfaction is a
 
 ![Delays Analysis](https://github.com/user-attachments/assets/b0bac7ea-ce83-465f-ab34-73c89305d5ea)
 
-This "Delay Reasons Analysis" report reveals:
+### This "Delay Reasons Analysis" report reveals:
 
 • High Volume of Delays: 1 million delayed flights.
 
