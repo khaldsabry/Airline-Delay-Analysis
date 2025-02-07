@@ -344,25 +344,16 @@ In short:  Despite high volume and low cancellations, customer satisfaction is a
 
 This "Delay Reasons Analysis" report reveals:
 
-High Volume of Delays: 1 million delayed flights.
-
-Late Aircraft is Major Cause: Average late aircraft delay is 16.29 minutes, significantly higher than other causes (weather 2.4 min, NAS 9.72 min, carrier 12.41 min).
-
-Peak Delay Hour: 5 PM (hour 17) sees the most delays.
-
-Delay Rate by Airline: Southwest has a 72% delay rate, followed by other airlines (specific values unclear).
-
-Early Arrival Rate: Low early arrival rate of ≥9.23%.
-
-On-Time Arrival Percentage: Very low at 18.93%.
-
-Delays by Tail Number: Specific planes (tail numbers) are associated with varying delay counts.
-
-Delays by Day of Week: Friday and Monday show the highest total delay volume.
-
-Delays Over Time: Charts show delay trends by hour, tail number, day of week, and month, with late aircraft delays consistently high.
-
-In short:  Late aircraft are the primary driver of delays, impacting a large portion of flights and resulting in poor on-time performance.  The report identifies specific pain points (peak hours, days of week, tail numbers) for potential intervention.
+• High Volume of Delays: 1 million delayed flights.
+• Late Aircraft is Major Cause: Average late aircraft delay is 16.29 minutes, significantly higher than other causes (weather 2.4 min, NAS 9.72 min, carrier 12.41 min).
+• Peak Delay Hour: 5 PM (hour 17) sees the most delays.
+• Delay Rate by Airline: Southwest has a 72% delay rate, followed by other airlines (specific values unclear).
+• Early Arrival Rate: Low early arrival rate of ≥9.23%.
+• On-Time Arrival Percentage: Very low at 18.93%.
+• Delays by Tail Number: Specific planes (tail numbers) are associated with varying delay counts.
+• Delays by Day of Week: Friday and Monday show the highest total delay volume.
+• Delays Over Time: Charts show delay trends by hour, tail number, day of week, and month, with late aircraft delays consistently high.
+• In short: Late aircraft are the primary driver of delays, impacting a large portion of flights and resulting in poor on-time performance. The report identifies specific pain points (peak hours, days of week, tail numbers) for potential intervention.
 
 
 ## 6. Cancellation & Diverted Analysis Page
