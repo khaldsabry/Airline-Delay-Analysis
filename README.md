@@ -402,9 +402,9 @@ This project was collaboratively managed using Trello, ensuring efficient task t
 
 ## Contributors:
 
-1- Khalid Sabry Elshafei
+1- Khalid Sabry Elshafei 
 
-2- Nada Mostafa Aglan
+2- [Nada Mostafa Aglan]( https://discordapp.com/channels/1329065557349236828/1334881050115051530/1337404763721175050)
 
 3- Dina Ibrahim Hemdan
 
