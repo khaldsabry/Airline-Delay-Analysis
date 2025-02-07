@@ -402,11 +402,11 @@ This project was collaboratively managed using Trello, ensuring efficient task t
 
 ## Contributors:
 
-1- Khalid Sabry Elshafei 
+1- [Khalid Sabry Elshafei](https://github.com/khaldsabry)
 
 2- [Nada Mostafa Aglan]( https://discordapp.com/channels/1329065557349236828/1334881050115051530/1337404763721175050)
 
-3- Dina Ibrahim Hemdan
+3- [Dina Ibrahim Hemdan](https://discordapp.com/channels/1329065557349236828/1334881050115051530/1337405173030453279)
 
 Each team member played a critical role in achieving the project's objectives, leveraging Trello to stay aligned on priorities and updates throughout the development lifecycle.
 
