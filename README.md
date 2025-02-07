@@ -7,7 +7,7 @@ The dataset offers comprehensive flight information, including flight dates, air
 
 1- Project Overview
 
-2- DataSet Describtion
+2- DataSet Description
 
 3- Tools and Technologies Used
 
@@ -238,40 +238,40 @@ This Report describes a 7-page interactive dashboard for analyzing airline fligh
 
 ![Airline Analysis](https://github.com/user-attachments/assets/fc79fdf8-e336-41eb-b61a-6ed0c6bc8438)
 
-Key Insights from Airline Analysis Dashboard:
+### Key Insights from Airline Analysis Dashboard:
 
-5367 planes, 23 airlines (20 active).
+• Total Planes and Airlines: 5367 planes, 23 airlines (20 active).
 
-Mesa Airlines has highest delay rate (83%).
+• Highest Delay Rate: Mesa Airlines has the highest delay rate at 83%.
 
-American & Southwest have large fleets, but on-time arrival varies.
+• Large Fleets with Varied Performance: American and Southwest have large fleets, but their on-time arrival performance varies.
 
-Arrival/departure punctuality is generally aligned per airline.
+• Arrival/Departure Punctuality: Arrival and departure punctuality are generally aligned per airline.
 
-Hawaiian & Aloha have lower on-time percentages.
+• Lower On-Time Percentages: Hawaiian and Aloha Airlines have lower on-time percentages.
 
-Cancellation rates spike in December.
+• Cancellation Rates: Cancellation rates spike in December.
 
-Overall: Dashboard compares airline performance across various metrics, revealing disparities in delays and on-time percentages, suggesting further investigation into operational factors.
+• Overall: The dashboard compares airline performance across various metrics, revealing disparities in delays and on-time percentages, suggesting further investigation into operational factors.
 
 
   ## i. Airline Drill Through
 
 ![Airline Drill Through](https://github.com/user-attachments/assets/0e5d5121-7b7f-4590-a68c-68d1f9703dd6)
 
-This "Drill Through" page provides a deeper dive into the "Monthly Investigation Analysis" for a specific airline, supplementing the main Airline Analysis dashboard.  Here's a breakdown:
+### This "Drill Through" page provides a deeper dive into the "Monthly Investigation Analysis" for a specific airline, supplementing the main Airline Analysis dashboard.  Here's a breakdown:
 
 Key Insights:
 
-Daily Flight & Delay Volume: Shows the total flights and total delayed flights for specific days of the month (e.g., the 22nd, 1st, 18th, 13th, 26th). 
+• Daily Flight & Delay Volume: Shows the total flights and total delayed flights for specific days of the month (e.g., the 22nd, 1st, 18th, 13th, 26th).
 
-This allows for identifying days with unusually high delays or flight volumes.
+• Purpose: Allows for identifying days with unusually high delays or flight volumes.
 
-Delay Reasons Breakdown: Visually represents the proportion of delays attributed to different reasons: Late Aircraft, Weather, Carrier, NAS (National Airspace System), and Unknown causes.
+• Delay Reasons Breakdown: Visually represents the proportion of delays attributed to different reasons: Late Aircraft, Weather, Carrier, NAS (National Airspace System), and Unknown causes.
 
-Average Delay Times by Reason: Displays the average delay time (in minutes) for each delay reason. This helps understand which causes lead to the longest delays.
+• Average Delay Times by Reason: Displays the average delay time (in minutes) for each delay reason. This helps understand which causes lead to the longest delays.
 
-Cancelled Flights by Reason: Indicates the number of cancellations due to each reason.
+• Cancelled Flights by Reason: Indicates the number of cancellations due to each reason.
 
 
 ## 3. Airports Analysis Page
@@ -279,7 +279,7 @@ Cancelled Flights by Reason: Indicates the number of cancellations due to each r
 
 ![Airports Analysis](https://github.com/user-attachments/assets/401f0eaa-64bc-48ef-91f9-0dddda85cd4d)
 
-Key Insights from Airport Report:
+### Key Insights from Airport Report:
 
 High average delays: ~43 minutes for both departures and arrivals (8942 airports).
 
